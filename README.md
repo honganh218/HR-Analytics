@@ -48,7 +48,8 @@
 <br> Through data-driven analysis and targeted improvements, the company can strive for continued growth and enhanced employee experiences.
 
 ### Attrition Analysis
-![image](https://github.com/honganh218/HR-Analytics/assets/133098903/0a7aac6d-cf04-410d-884e-998f496a8cbc)
+![image](https://github.com/honganh218/HR-Analytics/assets/133098903/2fe602c1-f728-4277-8cb7-9c256b41b157)
+
 + **Attrition rate = 16%**
 <br> => **higher** than standard attrition rate of Tech industry ( 12.9%, according to LinkedIn data – 2022).
 + Conversely, **78%** of departing employees possesses a **high performance** rating as assessed their by Managers
